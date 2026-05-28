@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model weights
+*.pth
+*.pkl
+
+# Videos
+*.mp4
+*.avi
+
+# Outputs
+outputs/
+
+# Datasets
+datasets/
+
+# VS Code
+.vscode/
+
+# Notebook cache
+.ipynb_checkpoints/
