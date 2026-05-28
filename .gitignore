@@ -1,0 +1,6 @@
+venv/
+outputs/
+datasets/
+*.mp4
+*.pkl
+__pycache__/
